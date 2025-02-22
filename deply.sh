@@ -23,3 +23,4 @@ else
 fi
 
 echo "Déploiement et migration de l'application terminés."
+#salam
